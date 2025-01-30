@@ -210,5 +210,5 @@ Thanks to the open-source community for inspiration and tools to make this proje
 
 ---
 
-🔗 **GitHub Repository:** [Your GitHub Link Here]
+🔗 **GitHub Repository:** https://github.com/puramsri/Personal-Finance-Tracker
 ![image](https://github.com/user-attachments/assets/e6f63b60-dbdf-470b-9dc1-726fad62d37d)
